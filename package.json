@@ -1,0 +1,19 @@
+{
+  "name": "modern_jascript",
+  "version": "1.0.0",
+  "description": "JS Modules Playground App",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukunzidd/modern_javascript.git"
+  },
+  "author": "Dodo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mukunzidd/modern_javascript/issues"
+  },
+  "homepage": "https://github.com/mukunzidd/modern_javascript#readme"
+}
