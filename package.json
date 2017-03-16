@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mukunzidd/modern_javascript/issues"
   },
-  "homepage": "https://github.com/mukunzidd/modern_javascript#readme"
+  "homepage": "https://github.com/mukunzidd/modern_javascript#readme",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
 }
